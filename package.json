@@ -1,0 +1,28 @@
+{
+  "name": "blended-node-module-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node src/scripts/generateProducts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurikorock/blended-node-module-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yurikorock/blended-node-module-1/issues"
+  },
+  "homepage": "https://github.com/yurikorock/blended-node-module-1#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.30.0",
+    "@faker-js/faker": "^9.8.0",
+    "eslint": "^9.30.0",
+    "globals": "^16.2.0"
+  }
+}

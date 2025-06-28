@@ -28,5 +28,35 @@
     "price": "22.40",
     "category": "Clothing",
     "description": "New Towels model with 9 GB RAM, 931 GB storage, and bogus features"
+  },
+  {
+    "name": "Tasty Rubber Sausages",
+    "price": "905.89",
+    "category": "Home",
+    "description": "Introducing the Guam-inspired Table, blending likely style with local craftsmanship"
+  },
+  {
+    "name": "Tasty Granite Sausages",
+    "price": "131.59",
+    "category": "Kids",
+    "description": "Introducing the Grenada-inspired Cheese, blending stale style with local craftsmanship"
+  },
+  {
+    "name": "Fantastic Steel Bike",
+    "price": "688.45",
+    "category": "Computers",
+    "description": "Savor the sour essence in our Bacon, designed for busy culinary adventures"
+  },
+  {
+    "name": "Sleek Rubber Keyboard",
+    "price": "575.69",
+    "category": "Books",
+    "description": "Discover the rhinoceros-like agility of our Bike, perfect for mad users"
+  },
+  {
+    "name": "Frozen Metal Chips",
+    "price": "290.25",
+    "category": "Industrial",
+    "description": "The Sharable bifurcated structure Shirt offers reliable performance and colorful design"
   }
 ]
